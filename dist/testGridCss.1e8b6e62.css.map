@@ -1,0 +1,1 @@
+{"version":3,"sources":["testGridCss.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"testGridCss.1e8b6e62.css","sourceRoot":"..","sourcesContent":["\n.infoList{\n    width: 100%;\n    display: grid;\n    grid-template-columns: 1fr , 1fr;\n    grid-template-rows:auto;\n\n}"]}

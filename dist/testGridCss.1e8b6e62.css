@@ -1,0 +1,10 @@
+
+.infoList{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr , 1fr;
+    grid-template-rows:auto;
+
+}
+
+/*# sourceMappingURL=/testGridCss.1e8b6e62.css.map */
