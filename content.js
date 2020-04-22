@@ -17,7 +17,7 @@ const htmlMap = {
 
 
 const stateMap = {
-    $container : null
+    $container : null,
 }
 //$('.body')
 const init = ($container)=>{
