@@ -1,7 +1,7 @@
 var $ = require('jquery');
 var keyboard = require('virtual-keyboard');
 
-
+var qa = 0 ;
 // import { resolve } from "path";
 //import{_} from 'lodash';
 // const _ = require('lodash');
